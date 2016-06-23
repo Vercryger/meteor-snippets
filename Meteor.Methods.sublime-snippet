@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[Meteor.Methods({
+  ${1:someMethod}: function (${2}) {
+    ${3:// method body}
+  }
+});
+]]>
+  </content>
+  <tabTrigger>mmethods</tabTrigger>
+  <scope>text.plain, source.js</scope>
+</snippet>

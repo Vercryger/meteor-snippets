@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA['${1:click} ${2:.something}': function (e, template) {
+  e.preventDefault();
+
+  ${3:// event body}
+}
+]]>
+  </content>
+  <tabTrigger>tevent</tabTrigger>
+  <scope>text.plain, source.js</scope>
+</snippet>

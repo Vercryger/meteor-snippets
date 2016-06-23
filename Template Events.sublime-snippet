@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[Template.${1:myTemplate}.events({
+  ${2:// some event}
+});
+]]>
+  </content>
+  <tabTrigger>tevents</tabTrigger>
+  <scope>text.plain, source.js</scope>
+</snippet>

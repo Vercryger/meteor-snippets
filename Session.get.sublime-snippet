@@ -1,0 +1,7 @@
+<snippet>
+  <content>
+<![CDATA[Session.get('${1:someReactiveVar}');]]>
+  </content>
+  <tabTrigger>sget</tabTrigger>
+  <scope>text.plain, source.js</scope>
+</snippet>

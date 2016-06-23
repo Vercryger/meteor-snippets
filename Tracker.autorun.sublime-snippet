@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[Tracker.autorun(function () {
+  ${1:// some reactive variable}
+});
+]]>
+  </content>
+  <tabTrigger>tautorun</tabTrigger>
+  <scope>text.plain, source.js</scope>
+</snippet>
