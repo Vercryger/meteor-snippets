@@ -1,6 +1,6 @@
 <snippet>
   <content>
-<![CDATA[Meteor.Methods({
+<![CDATA[Meteor.methods({
   ${1:someMethod}: function (${2}) {
     ${3:// method body}
   }
