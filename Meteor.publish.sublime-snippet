@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[Meteor.publish('${1:publicationName}', function (${2}) {
-  ${3:// publish body}
+  ${0:// publish body}
 });
 ]]>
   </content>

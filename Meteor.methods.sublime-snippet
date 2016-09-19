@@ -2,7 +2,7 @@
   <content>
 <![CDATA[Meteor.methods({
   ${1:someMethod}: function (${2}) {
-    ${3:// method body}
+    ${0:// method body}
   }
 });
 ]]>

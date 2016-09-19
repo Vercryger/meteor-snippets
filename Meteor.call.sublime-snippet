@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[Meteor.call('${1:someMethod}', ${2}function(${3:err}, ${4:res}) {
-  ${5:if (err) alert(err.reason);}
+  ${0:if (err) alert(err.reason);}
 });
 ]]>
   </content>

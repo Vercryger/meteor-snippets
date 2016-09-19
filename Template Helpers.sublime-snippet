@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[Template.${1:myTemplate}.helpers({
-  ${2:// some function}
+  ${0:// some function}
 });
 ]]>
   </content>
